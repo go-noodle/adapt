@@ -1,7 +1,7 @@
 package gorilla
 
 import (
-	"gopkg.in/andviro/noodle.v2"
+	"github.com/go-noodle/noodle"
 	"github.com/gorilla/mux"
 	"net/http"
 )

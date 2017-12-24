@@ -2,8 +2,8 @@ package adapt_test
 
 import (
 	"fmt"
-	"gopkg.in/andviro/noodle.v2"
-	"gopkg.in/andviro/noodle.v2/adapt"
+	"github.com/go-noodle/noodle"
+	"github.com/go-noodle/adapt"
 	"gopkg.in/tylerb/is.v1"
 	"net/http"
 	"net/http/httptest"

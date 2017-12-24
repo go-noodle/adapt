@@ -1,8 +1,8 @@
 package gorilla_test
 
 import (
-	"gopkg.in/andviro/noodle.v2"
-	"gopkg.in/andviro/noodle.v2/adapt/gorilla"
+	"github.com/go-noodle/noodle"
+	"github.com/go-noodle/adapt/gorilla"
 	"github.com/gorilla/mux"
 	"gopkg.in/tylerb/is.v1"
 	"net/http"
